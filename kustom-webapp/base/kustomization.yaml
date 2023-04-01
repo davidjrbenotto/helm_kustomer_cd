@@ -10,6 +10,6 @@ commonAnnotations:
 
 namePrefix:
   kustom-
-
+#suffix
 nameSuffix:
   -v1
